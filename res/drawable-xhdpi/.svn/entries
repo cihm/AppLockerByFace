@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2014-08-07T03:04:39.380260Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/drawable-xhdpi"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="ic_launcher.png"
+   text-time="2014-08-07T03:18:03.715291Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="c8512e924b6c291b04015e15e90e9768"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:03.669288Z"/>
+<entry
+   committed-rev="73"
+   name="seeting.png"
+   text-time="2014-08-07T03:18:03.731292Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="767589a2faaaaba9a3bf0e61ad8bb7b1"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:03.682289Z"/>
+<entry
+   committed-rev="73"
+   name="lock.png"
+   text-time="2014-08-07T03:18:03.748293Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="e86da944c8b1f0d0d08371313796054c"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:03.695289Z"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="63"
+   name=""
+   committed-date="2014-02-26T14:39:25.544580Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/drawable"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="lockscreen_checkbutton.xml"
+   text-time="2014-08-07T03:18:01.486163Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="28e7cd450b3635d6b8ff9ff2bc22e95b"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.445161Z"/>
+<entry
+   committed-rev="63"
+   name="lockscreen_button.xml"
+   text-time="2014-08-07T03:18:01.559167Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="28e7cd450b3635d6b8ff9ff2bc22e95b"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.451161Z"/>
+<entry
+   committed-rev="63"
+   name="applicationlist_item_selected.xml"
+   text-time="2014-08-07T03:18:01.620171Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="f93ece17ad0475865aaa10e6835c8601"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.460162Z"/>
+<entry
+   committed-rev="63"
+   name="lockscreen_button_pressed.xml"
+   text-time="2014-08-07T03:18:01.634172Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="35c305f821ef5d4250560da73775c015"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.465162Z"/>
+<entry
+   committed-rev="63"
+   name="lockscreen_button_normal.xml"
+   text-time="2014-08-07T03:18:01.473162Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="e899b515e99d5024bd989bf7c00b0473"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.439160Z"/>
+</wc-entries>

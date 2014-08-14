@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="63"
+   name=""
+   committed-date="2014-02-26T14:39:25.544580Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/bin"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="AndroidManifest.xml"
+   text-time="2014-08-07T03:18:00.777123Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="887285d8f1cb5b4da3c2eec16464a5ce"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.738120Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   committed-rev="63"
+   name="jarlist.cache"
+   text-time="2014-08-07T03:18:00.769122Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="1a4e54903cfe5b5bf05e60ce40d06671"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.700118Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="72"
+   name=""
+   committed-date="2014-08-07T03:04:27.267567Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/src/com/example/applockerbyface"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="AppLockerPreference.java"
+   text-time="2014-08-07T03:18:00.523108Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="5134b81f30a0940e449b10ed6a7c45c9"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.452104Z"/>
+<entry
+   committed-rev="63"
+   name="AppLockerApplication.java"
+   text-time="2014-08-07T03:18:00.537109Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="57e5a5edb75abc72ad31f9139c7c72b5"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.458104Z"/>
+<entry
+   committed-rev="63"
+   name="LockScreenActivity.java"
+   text-time="2014-08-07T03:18:00.569111Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="5299100e568aac0985e1bc0da6ea78cb"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.465105Z"/>
+<entry
+   committed-rev="63"
+   name="ActivityStartingHandler.java"
+   text-time="2014-08-07T03:18:00.587112Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="1bb687a03ba1ffd9f356f056a97f06c2"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.483106Z"/>
+<entry
+   committed-rev="63"
+   name="StartupServiceReceiver.java"
+   text-time="2014-08-07T03:18:00.597112Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="4956072e91d1e60edb2f3632bba6f57d"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.488106Z"/>
+<entry
+   committed-rev="63"
+   name="DetectorService.java"
+   text-time="2014-08-07T03:18:00.605113Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="efe20362c7d960162a53c1b542328b4b"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.495106Z"/>
+<entry
+   committed-rev="72"
+   name="AppLockerPreferenceActivity.java"
+   text-time="2014-08-07T03:18:00.615113Z"
+   committed-date="2014-08-07T03:04:27.267567Z"
+   checksum="1c082866bc9540cef4c276cdb30108fc"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.500107Z"/>
+<entry
+   committed-rev="63"
+   name="ApplicationListActivity.java"
+   text-time="2014-08-07T03:18:00.624114Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="f58c83552296201ffe8c3386cfcff1eb"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.506107Z"/>
+<entry
+   committed-rev="72"
+   name="AppLockerActivity.java"
+   text-time="2014-08-07T03:18:00.633114Z"
+   committed-date="2014-08-07T03:04:27.267567Z"
+   checksum="8109c0cf2bdeeff4387ac0b213625d12"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.511107Z"/>
+<entry
+   committed-rev="63"
+   name="ActivityStartingListener.java"
+   text-time="2014-08-07T03:18:00.641115Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="f5addacf711179ce03f002b00330db5a"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.515108Z"/>
+</wc-entries>

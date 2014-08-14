@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2014-08-07T03:04:39.380260Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/drawable-hdpi"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="ic_launcher.png"
+   text-time="2014-08-07T03:18:02.103198Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="d0cec7c8cda5327b8a17b8980bcc88eb"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.690175Z"/>
+<entry
+   committed-rev="63"
+   name="important.png"
+   text-time="2014-08-07T03:18:02.179203Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="cb0298eb2786cd36f9775a7121fdc7ba"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.701175Z"/>
+<entry
+   committed-rev="73"
+   name="seeting.png"
+   text-time="2014-08-07T03:18:02.270208Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="2421f82e80b5e20822800285475b5981"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.012193Z"/>
+<entry
+   committed-rev="63"
+   name="statusbar_icon.png"
+   text-time="2014-08-07T03:18:02.309210Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="ec03c86d91dd4ecbc4994da952cdf100"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.055196Z"/>
+<entry
+   committed-rev="63"
+   name="lockicons.png"
+   text-time="2014-08-07T03:18:02.326211Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="79f5aa93927fb0a2225a67e74118f438"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.062196Z"/>
+<entry
+   committed-rev="63"
+   name="icon.png"
+   text-time="2014-08-07T03:18:02.344212Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="b627720bde39c611e308368d97d33af5"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.070197Z"/>
+<entry
+   committed-rev="73"
+   name="lock.png"
+   text-time="2014-08-07T03:18:02.362213Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="ea7a7f277d0f10138745d79cf56863ab"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.077197Z"/>
+<entry
+   committed-rev="63"
+   name="launcher_icon.png"
+   text-time="2014-08-07T03:18:02.381214Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="4883dc697edb562a725d0ffb7ee6a1b0"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.085197Z"/>
+<entry
+   committed-rev="63"
+   name="unlock.png"
+   text-time="2014-08-07T03:18:02.398215Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="1c24b5209b53a0f43d8d2c3fed014f30"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.092198Z"/>
+</wc-entries>

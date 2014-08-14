@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="63"
+   name=""
+   committed-date="2014-02-26T14:39:25.544580Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/anim"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="nod.xml"
+   text-time="2014-08-07T03:18:03.046252Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="85e1d81fe2e1f4414a12c554b10ebf59"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.818239Z"/>
+<entry
+   committed-rev="63"
+   name="zoom_enter.xml"
+   text-time="2014-08-07T03:18:03.065253Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="5db9af0bdf93fa303628e9db66e566be"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.830240Z"/>
+<entry
+   committed-rev="63"
+   name="cycle_7.xml"
+   text-time="2014-08-07T03:18:03.085255Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="bbdb42d91d470bce7a67a2a24fc1d794"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.843241Z"/>
+<entry
+   committed-rev="63"
+   name="slide_top_to_bottom.xml"
+   text-time="2014-08-07T03:18:02.864242Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="3055b0a071e4742be75ed7f59b5d2040"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.731234Z"/>
+<entry
+   committed-rev="63"
+   name="wave_scale.xml"
+   text-time="2014-08-07T03:18:02.884243Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="d2812a85383a9496babb72e550f552ed"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.744235Z"/>
+<entry
+   committed-rev="63"
+   name="slide_left.xml"
+   text-time="2014-08-07T03:18:02.923245Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="b4f25cf97ec5385c5c12cea60811d8ba"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.756236Z"/>
+<entry
+   committed-rev="63"
+   name="shake.xml"
+   text-time="2014-08-07T03:18:02.965248Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="c805468590b03b3bd0f6d002679a1ec0"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.768236Z"/>
+<entry
+   committed-rev="63"
+   name="slide_right.xml"
+   text-time="2014-08-07T03:18:02.985249Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="8ff3f47d0b2a1413c93eb2a119af122f"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.780237Z"/>
+<entry
+   committed-rev="63"
+   name="zoom_exit.xml"
+   text-time="2014-08-07T03:18:03.005250Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="8dc64b1be81662669f96070c6966766f"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.794238Z"/>
+<entry
+   committed-rev="63"
+   name="fade.xml"
+   text-time="2014-08-07T03:18:03.026251Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="ff660fa19c12d2f6172f3dcc397f5e04"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:02.806239Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="63"
+   name=""
+   committed-date="2014-02-26T14:39:25.544580Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/.settings"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2014-08-07T03:18:04.133315Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="dedfa1639b1ef42bffad86ae405d2396"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:04.114313Z"/>
+<entry
+   committed-rev="63"
+   name="org.eclipse.core.resources.prefs"
+   text-time="2014-08-07T03:18:04.123314Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="64517faea93f969617144f7b248e5fe0"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:04.109313Z"/>
+</wc-entries>

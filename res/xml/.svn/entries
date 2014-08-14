@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2014-08-07T03:04:39.380260Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/xml"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="73"
+   name="preferences.xml"
+   text-time="2014-08-07T03:18:01.409159Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="a0005f3f46dc2a6b3a53912ab9fd80c8"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.401158Z"/>
+</wc-entries>

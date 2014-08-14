@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="63"
+   name=""
+   committed-date="2014-02-26T14:39:25.544580Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/libs"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="android-binding-v30-0.5.jar"
+   text-time="2014-08-07T03:18:01.066139Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="421c710e8c19fdf9c2a4ce8d0863e13b"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:00.934132Z"/>
+<entry
+   committed-rev="63"
+   name="android-support-v4.jar"
+   text-time="2014-08-07T03:18:01.116142Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="ed257a47cae11af1a55614055b879947"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.050138Z"/>
+</wc-entries>

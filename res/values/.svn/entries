@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2014-08-07T03:04:39.380260Z"
+   url="http://140.122.184.52:8888/svn/face_rec/AppLockerByFace/res/values"
+   last-author="lewis"
+   kind="dir"
+   uuid="55a4084e-9bca-9d4a-8801-31ce3c492107"
+   repos="http://140.122.184.52:8888/svn/face_rec"
+   revision="73"/>
+<entry
+   committed-rev="63"
+   name="arrays.xml"
+   text-time="2014-08-07T03:18:01.235149Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="07304d896f374639352288ae9e32e2c2"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.198147Z"/>
+<entry
+   committed-rev="63"
+   name="styles.xml"
+   text-time="2014-08-07T03:18:01.244149Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="99e63ff1a8d41fba0624d73e616a2f71"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.204147Z"/>
+<entry
+   committed-rev="73"
+   name="strings.xml"
+   text-time="2014-08-07T03:18:01.255150Z"
+   committed-date="2014-08-07T03:04:39.380260Z"
+   checksum="1b3ee3b6c1a429eff9b241b9cf4a6720"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.210147Z"/>
+<entry
+   committed-rev="63"
+   name="logcats.xml"
+   text-time="2014-08-07T03:18:01.265151Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="0d55f514805aacf84ba12a03ef2a990d"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.216148Z"/>
+<entry
+   committed-rev="63"
+   name="dimens.xml"
+   text-time="2014-08-07T03:18:01.273151Z"
+   committed-date="2014-02-26T14:39:25.544580Z"
+   checksum="95bafc6e72ab55586d77b38088345fa5"
+   last-author="lewis"
+   kind="file"
+   prop-time="2014-08-07T03:18:01.221148Z"/>
+</wc-entries>
