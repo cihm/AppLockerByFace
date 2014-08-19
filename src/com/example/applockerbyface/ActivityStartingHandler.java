@@ -21,7 +21,7 @@ public class ActivityStartingHandler implements ActivityStartingListener{
 	private String lockScreenActivityName;
 	
 	public ActivityStartingHandler(Context context){
-		
+		//branch test
 		mContext = context;
 		handler = new Handler();
 		mAm = (ActivityManager)mContext.getSystemService(Context.ACTIVITY_SERVICE);
